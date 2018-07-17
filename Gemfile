@@ -33,7 +33,7 @@ gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
 
- gem 'thor', '0.20.0'
+gem 'thor', '0.20.0'
 
 
 # Reduces boot times through caching; required in config/boot.rb
@@ -47,3 +47,5 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.0'
   gem 'rails-controller-testing'
 end
+
+gem 'bootstrap-sass'
